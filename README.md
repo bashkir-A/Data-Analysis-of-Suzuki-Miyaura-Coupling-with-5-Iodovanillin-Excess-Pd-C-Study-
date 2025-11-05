@@ -1,0 +1,2 @@
+# Data-Analysis-of-Suzuki-Miyaura-Coupling-with-5-Iodovanillin-Excess-Pd-C-Study-
+This project analyzes the effects of using excess palladium on carbon (Pd/C) catalyst in the Suzuki–Miyaura cross-coupling reaction between 5-iodovanillin and 4-methylphenylboronic acid. The script performs stoichiometric calculations, cost evaluation, mechanistic interpretation, and generates 2D/3D visualizations.
